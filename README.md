@@ -13,13 +13,13 @@ npm i
 To start the server in development mode, run:
 
 ```bash
-$ npm start
+npm start
 ```
 
 To start the server in watch mode, run:
 
 ```bash
-$ npm run start:dev
+npm run start:dev
 ```
 
 ## Configuration
