@@ -26,7 +26,7 @@ npm run start:dev
 
 The MySQL credentials are specified in `app.module.ts`. By default, the backend is trying to connect to a MySQL instance running locally.
 
-To persist data when restarting the backend, set `isProduction` to `true`.
+To persist data when restarting the backend, set `isProduction` to `true` in `app.module.ts`.
 
 ## Docker
 
