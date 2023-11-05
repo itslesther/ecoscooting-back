@@ -3,7 +3,9 @@
 ## Installation
 
 To install the dependencies, run:
+```bash
 npm i
+```
 
 
 ## Usage
